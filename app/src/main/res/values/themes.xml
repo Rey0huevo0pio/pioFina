@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Pio_Final_Trabajo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Personaliza tus colores aquí -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorSecondary">@color/purple_700</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@android:color/transparent</item>
+    </style>
+</resources>
